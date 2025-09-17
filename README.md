@@ -55,3 +55,59 @@ cd name-matching-system
 ```bash
 pip install rapidfuzz streamlit
 ```
+
+
+## Streamlit Web Frontend
+
+Run the Streamlit app:
+```bash
+streamlit run app.py
+```
+
+-A web page will open.
+
+-Enter a name in the input box.
+
+-Click Find Matches.
+
+-The page will show:
+
+--Best match
+
+--Ranked list of similar names with scores.
+
+
+## Sample Output
+
+User Input: Geeta
+```bash
+Best Match: Geeta (Score: 100)
+
+Top Matches:
+Geeta            → 100
+Geetha           → 91
+Geethaa          → 86
+Gita             → 84
+Githa            → 80
+Rekha            → 62
+Reka             → 60
+Priya            → 59
+Sneha            → 55
+Sahana           → 52
+```
+
+---
+
+## Future Improvements
+
+Use phonetic matching (Soundex, Metaphone) to catch similar-sounding names.
+
+Use vector embeddings for semantic similarity.
+
+Expand dataset to include multi-language names.
+
+Deploy as a full web app with search history and analytics.
+
+## Developer
+
+Sahana Khanai
