@@ -23,6 +23,15 @@ Even though this system is lightweight, it uses **Artificial Intelligence techni
 
 ---
 
+### 🎨 Modern UI
+
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/c0c04683-97d9-45fb-ba90-2855a56fb71d" />
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/fdfd2204-3a94-41dd-b049-b36b9a667d91" />
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/cc32a467-9efc-47a1-9b55-d2877e0d0391" />
+
+
+
+
 ## Dataset
 The system uses a dataset of **100 names**, including male and female names:
 
