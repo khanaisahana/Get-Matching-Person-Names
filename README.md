@@ -117,6 +117,8 @@ Expand dataset to include multi-language names.
 
 Deploy as a full web app with search history and analytics.
 
-## Developer
+---
 
-Sahana Khanai
+## 🧑‍💻 Author
+
+Developed by **Sahana Khanai**
