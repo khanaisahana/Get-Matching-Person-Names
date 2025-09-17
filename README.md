@@ -46,12 +46,12 @@ names = [
 ## Installation
 
 1.Clone the repository:
-bash```
+```bash
 git clone <your-repo-url>
 cd name-matching-system
 ```
 
 2.Install Python dependencies:
-bash```
+```bash
 pip install rapidfuzz streamlit
 ```
